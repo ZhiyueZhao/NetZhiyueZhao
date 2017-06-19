@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\obj\Debug\BusinessTier.pdb

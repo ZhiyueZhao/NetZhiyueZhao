@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\TestZhiyueZhao.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\TestZhiyueZhao.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\BusinessTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\BusinessTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\BusinessTier_Accessor.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\BusinessTier_Accessor.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\obj\Debug\TestZhiyueZhao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\obj\Debug\TestZhiyueZhao.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\obj\Debug\TestZhiyueZhao.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\NETZhiyueZhao.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\NETZhiyueZhao.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\NETZhiyueZhao_Accessor.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\NETZhiyueZhao_Accessor.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\bin\Debug\TestZhiyueZhao.dll.config

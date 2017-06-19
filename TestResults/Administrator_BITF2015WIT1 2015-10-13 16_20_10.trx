@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f690b8ca-9a81-4b68-be30-b4efe8f9fe43" name="Administrator@BITF2015WIT1 2015-10-13 16:20:10" runUser="BITF2015WIT1\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ff0b7b64-8b2e-439a-bd61-71756697bef5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_BITF2015WIT1 2015-10-13 16_20_10">
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\bin\Debug\BusinessTier.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-13T16:20:10.5471484-05:00" queuing="2015-10-13T16:20:10.5701661-05:00" start="2015-10-13T16:20:10.6232006-05:00" finish="2015-10-13T16:20:11.3246972-05:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="29" executed="29" passed="29" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BITF2015WIT1" outcome="Warning" timestamp="2015-10-13T16:20:10.5691632-05:00">
+        <Text>Deployment is currently disabled. The deployment item 'NETZhiyueZhao.exe' on test 'TestZhiyueZhao.frmQuoteTest.clearFinanceTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="clearFinanceTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="c603df60-76e3-2c7c-8d0a-afc5669e31fb">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="850476a0-237b-4f27-9109-17cd9282bb50" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="clearFinanceTest" />
+    </UnitTest>
+    <UnitTest name="txtTradeInAllowance_ValidatingTestLessThanZero" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="694f5fe8-c027-e9f5-ad3a-393425c1b9fd">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="ce28eaac-58dc-4fc6-915d-ab28750e70e9" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtTradeInAllowance_ValidatingTestLessThanZero" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestPositiveAndScrollThenPositive" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="d46c6573-0a31-aa34-8c09-4334e4b9f7bf">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="45c3bbf1-f934-4539-b19d-37068a5d8852" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestPositiveAndScrollThenPositive" />
+    </UnitTest>
+    <UnitTest name="updateMonthlyPaymentTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="074c071e-0010-65e9-311a-02df2ede21ee">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="c5307f1b-1294-4af5-83cf-0be0e9c52d50" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="updateMonthlyPaymentTest" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestZero" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="3a05ed06-7376-5c11-5ccc-a05ccb136309">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="f7c45a80-2525-4b85-a9ce-b6c69340d3a8" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestZero" />
+    </UnitTest>
+    <UnitTest name="frmQuoteConstructorTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="f7124b4d-0ee2-732e-ac0e-97fb6ff75382">
+      <Execution id="a42213a4-9644-4e72-ba2d-bf4ce6ffc5e9" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="frmQuoteConstructorTest" />
+    </UnitTest>
+    <UnitTest name="checkboxRadioButton_CheckedChangedTestCheckbox" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="4aa3e695-8107-ff9e-f2d9-31025ffc2fc0">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="34c619ac-1c97-4908-adc3-9a5c16369a80" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="checkboxRadioButton_CheckedChangedTestCheckbox" />
+    </UnitTest>
+    <UnitTest name="lnkResetForm_ClickTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="ab3f4f99-11c9-ce5e-2e19-2aaff19304f3">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="36b22ef4-8a8e-43d4-9878-a05d16ac598c" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="lnkResetForm_ClickTest" />
+    </UnitTest>
+    <UnitTest name="txtTradeInAllowance_ValidatingTestNotNumeric" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="7f2f2dd6-ddd1-f4ac-cac5-dd7ff0c6e74e">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="e7bbca3d-c521-4604-ae74-87bb7493896b" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtTradeInAllowance_ValidatingTestNotNumeric" />
+    </UnitTest>
+    <UnitTest name="hsbInterestRate_ValueChangedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="439c8634-c500-610f-3762-0d30671b4f03">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="93b0a26f-3b43-4032-ae0f-04cf46f48a1e" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="hsbInterestRate_ValueChangedTest" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestPositive" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="e6c06874-7826-f5e2-bc1d-c8a399b92712">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="3e32b9d8-a9aa-4f8f-8d2a-39a65fd2e45e" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestPositive" />
+    </UnitTest>
+    <UnitTest name="txtVehicleSalePrice_ValidatingTestValidInput" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="783d93ac-8eaf-bcde-3a47-87742ef1cf3f">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="c1ace781-8fe7-4597-a5a0-febe49f134fd" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtVehicleSalePrice_ValidatingTestValidInput" />
+    </UnitTest>
+    <UnitTest name="txtVehicleSalePrice_ValidatingTestNoGreaterThanZero" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="f3f6a8e6-adc4-d458-a03e-820137e927f4">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="a5861c82-749d-4c2f-aff9-77e671d422f6" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtVehicleSalePrice_ValidatingTestNoGreaterThanZero" />
+    </UnitTest>
+    <UnitTest name="txtVehicleSalePrice_ValidatedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="ec1e6568-1205-ced6-3d3f-05e975b14738">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="c2a3ac3b-fae2-4f3a-80b4-ad9404946c6d" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtVehicleSalePrice_ValidatedTest" />
+    </UnitTest>
+    <UnitTest name="UpdateSummaryFinanceTest_AmountDueZero" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="801dc852-42f0-e074-a986-8e54b221d08e">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="1a90f527-a6ab-476b-883d-fb179a13d76c" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateSummaryFinanceTest_AmountDueZero" />
+    </UnitTest>
+    <UnitTest name="txtTradeInAllowance_ValidatedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="315717c6-ab0a-0e8c-2da1-0654a2e6be18">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="c57db7fa-34e7-4384-8bf0-c5e9fcec864b" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtTradeInAllowance_ValidatedTest" />
+    </UnitTest>
+    <UnitTest name="textBox_GotFocusTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="491d3358-edfa-16cd-bd15-38d627dafa60">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="14098dd5-9ab5-4fb3-a7ff-9bc126e5a104" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="textBox_GotFocusTest" />
+    </UnitTest>
+    <UnitTest name="txtVehicleSalePrice_ValidatingTestNotNumeric" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="ab97ef20-c6a7-4143-e602-ecaf29892f8c">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="8ad1489a-c5ee-4a16-ab30-92645a692709" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtVehicleSalePrice_ValidatingTestNotNumeric" />
+    </UnitTest>
+    <UnitTest name="textbox_TextChangedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="8a92961d-4bc1-9dbc-c391-107877a578d9">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="39ef7517-5c43-4119-9c3b-deb362b50ad8" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="textbox_TextChangedTest" />
+    </UnitTest>
+    <UnitTest name="UpdateSummaryFinanceTest_AmountDuePositive" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="f8203ce4-1d76-c8eb-d999-8577d9729c1b">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="4565e7c3-aa49-461b-aa6f-9659c383afb3" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateSummaryFinanceTest_AmountDuePositive" />
+    </UnitTest>
+    <UnitTest name="hsbNoOfYear_ValueChangedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="8c3106f1-223b-ac25-c5a7-f7e3c2b9a7eb">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="e9e29457-2e6a-47fb-b765-35ecefa353f5" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="hsbNoOfYear_ValueChangedTest" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestZeroThenPositive" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="52f224c7-8821-c32f-3efe-af413fbc9f07">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="9935663e-0fc9-4caa-9fa4-09701b60e1d4" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestZeroThenPositive" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestPositiveAndScrollThenZero" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="03ce3de7-1b8f-9f80-46c1-ef7076c24fe0">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="29524918-ed76-4d3b-8932-2714c03d3493" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestPositiveAndScrollThenZero" />
+    </UnitTest>
+    <UnitTest name="clearFormTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="f2a08186-e21e-2d6d-797e-8e669ae88daa">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="2a213b99-e1c9-42d4-837d-398afe812cc1" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="clearFormTest" />
+    </UnitTest>
+    <UnitTest name="checkboxRadioButton_CheckedChangedTestRadio" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="1bab7f6f-08b1-d497-97aa-929c3f7214ab">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="c0337a55-eef4-4e81-b470-9d043d53bb3c" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="checkboxRadioButton_CheckedChangedTestRadio" />
+    </UnitTest>
+    <UnitTest name="txtTradeInAllowance_ValidatingTestValidInput" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="1dc72e9e-502c-dc78-5d52-40259ee003b0">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="15a3079c-befd-4b52-b8e9-e274e4303b13" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="txtTradeInAllowance_ValidatingTestValidInput" />
+    </UnitTest>
+    <UnitTest name="UpdateSummaryFinanceTest_AmountDueNegative" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="ee63a24e-124d-289d-8398-46b4c86a3d66">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="f7e53aef-aa93-41b7-a9d7-2398fbd3e5c8" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="UpdateSummaryFinanceTest_AmountDueNegative" />
+    </UnitTest>
+    <UnitTest name="btnCalculateQuote_ClickTestNegative" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="95510f82-1af8-7094-2681-f2e90f79a8c3">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="01fd5d3c-4213-422a-9cc3-aba1daac53c8" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestNegative" />
+    </UnitTest>
+    <UnitTest name="clearSummaryTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="e1c73f72-a2cb-d982-e85a-1d509fe26ede">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="35325be9-7fe7-46d1-b60f-1c3c949ac776" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="clearSummaryTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="03ce3de7-1b8f-9f80-46c1-ef7076c24fe0" executionId="29524918-ed76-4d3b-8932-2714c03d3493" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="074c071e-0010-65e9-311a-02df2ede21ee" executionId="c5307f1b-1294-4af5-83cf-0be0e9c52d50" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1bab7f6f-08b1-d497-97aa-929c3f7214ab" executionId="c0337a55-eef4-4e81-b470-9d043d53bb3c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1dc72e9e-502c-dc78-5d52-40259ee003b0" executionId="15a3079c-befd-4b52-b8e9-e274e4303b13" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="315717c6-ab0a-0e8c-2da1-0654a2e6be18" executionId="c57db7fa-34e7-4384-8bf0-c5e9fcec864b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a05ed06-7376-5c11-5ccc-a05ccb136309" executionId="f7c45a80-2525-4b85-a9ce-b6c69340d3a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="439c8634-c500-610f-3762-0d30671b4f03" executionId="93b0a26f-3b43-4032-ae0f-04cf46f48a1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="491d3358-edfa-16cd-bd15-38d627dafa60" executionId="14098dd5-9ab5-4fb3-a7ff-9bc126e5a104" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4aa3e695-8107-ff9e-f2d9-31025ffc2fc0" executionId="34c619ac-1c97-4908-adc3-9a5c16369a80" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52f224c7-8821-c32f-3efe-af413fbc9f07" executionId="9935663e-0fc9-4caa-9fa4-09701b60e1d4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="694f5fe8-c027-e9f5-ad3a-393425c1b9fd" executionId="ce28eaac-58dc-4fc6-915d-ab28750e70e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="783d93ac-8eaf-bcde-3a47-87742ef1cf3f" executionId="c1ace781-8fe7-4597-a5a0-febe49f134fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f2f2dd6-ddd1-f4ac-cac5-dd7ff0c6e74e" executionId="e7bbca3d-c521-4604-ae74-87bb7493896b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="801dc852-42f0-e074-a986-8e54b221d08e" executionId="1a90f527-a6ab-476b-883d-fb179a13d76c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8a92961d-4bc1-9dbc-c391-107877a578d9" executionId="39ef7517-5c43-4119-9c3b-deb362b50ad8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c3106f1-223b-ac25-c5a7-f7e3c2b9a7eb" executionId="e9e29457-2e6a-47fb-b765-35ecefa353f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="95510f82-1af8-7094-2681-f2e90f79a8c3" executionId="01fd5d3c-4213-422a-9cc3-aba1daac53c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab3f4f99-11c9-ce5e-2e19-2aaff19304f3" executionId="36b22ef4-8a8e-43d4-9878-a05d16ac598c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ab97ef20-c6a7-4143-e602-ecaf29892f8c" executionId="8ad1489a-c5ee-4a16-ab30-92645a692709" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c603df60-76e3-2c7c-8d0a-afc5669e31fb" executionId="850476a0-237b-4f27-9109-17cd9282bb50" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d46c6573-0a31-aa34-8c09-4334e4b9f7bf" executionId="45c3bbf1-f934-4539-b19d-37068a5d8852" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1c73f72-a2cb-d982-e85a-1d509fe26ede" executionId="35325be9-7fe7-46d1-b60f-1c3c949ac776" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e6c06874-7826-f5e2-bc1d-c8a399b92712" executionId="3e32b9d8-a9aa-4f8f-8d2a-39a65fd2e45e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec1e6568-1205-ced6-3d3f-05e975b14738" executionId="c2a3ac3b-fae2-4f3a-80b4-ad9404946c6d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee63a24e-124d-289d-8398-46b4c86a3d66" executionId="f7e53aef-aa93-41b7-a9d7-2398fbd3e5c8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f2a08186-e21e-2d6d-797e-8e669ae88daa" executionId="2a213b99-e1c9-42d4-837d-398afe812cc1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f3f6a8e6-adc4-d458-a03e-820137e927f4" executionId="a5861c82-749d-4c2f-aff9-77e671d422f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7124b4d-0ee2-732e-ac0e-97fb6ff75382" executionId="a42213a4-9644-4e72-ba2d-bf4ce6ffc5e9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f8203ce4-1d76-c8eb-d999-8577d9729c1b" executionId="4565e7c3-aa49-461b-aa6f-9659c383afb3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="29524918-ed76-4d3b-8932-2714c03d3493" testId="03ce3de7-1b8f-9f80-46c1-ef7076c24fe0" testName="btnCalculateQuote_ClickTestPositiveAndScrollThenZero" computerName="BITF2015WIT1" duration="00:00:00.0291980" startTime="2015-10-13T16:20:10.7522421-05:00" endTime="2015-10-13T16:20:10.8833855-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29524918-ed76-4d3b-8932-2714c03d3493">
+    </UnitTestResult>
+    <UnitTestResult executionId="c5307f1b-1294-4af5-83cf-0be0e9c52d50" testId="074c071e-0010-65e9-311a-02df2ede21ee" testName="updateMonthlyPaymentTest" computerName="BITF2015WIT1" duration="00:00:00.0045250" startTime="2015-10-13T16:20:10.8894017-05:00" endTime="2015-10-13T16:20:10.8974074-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c5307f1b-1294-4af5-83cf-0be0e9c52d50">
+    </UnitTestResult>
+    <UnitTestResult executionId="c0337a55-eef4-4e81-b470-9d043d53bb3c" testId="1bab7f6f-08b1-d497-97aa-929c3f7214ab" testName="checkboxRadioButton_CheckedChangedTestRadio" computerName="BITF2015WIT1" duration="00:00:00.0062074" startTime="2015-10-13T16:20:10.9023988-05:00" endTime="2015-10-13T16:20:10.9114173-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c0337a55-eef4-4e81-b470-9d043d53bb3c">
+    </UnitTestResult>
+    <UnitTestResult executionId="15a3079c-befd-4b52-b8e9-e274e4303b13" testId="1dc72e9e-502c-dc78-5d52-40259ee003b0" testName="txtTradeInAllowance_ValidatingTestValidInput" computerName="BITF2015WIT1" duration="00:00:00.0051880" startTime="2015-10-13T16:20:10.9164079-05:00" endTime="2015-10-13T16:20:10.9234262-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="15a3079c-befd-4b52-b8e9-e274e4303b13">
+    </UnitTestResult>
+    <UnitTestResult executionId="c57db7fa-34e7-4384-8bf0-c5e9fcec864b" testId="315717c6-ab0a-0e8c-2da1-0654a2e6be18" testName="txtTradeInAllowance_ValidatedTest" computerName="BITF2015WIT1" duration="00:00:00.0049729" startTime="2015-10-13T16:20:10.9284332-05:00" endTime="2015-10-13T16:20:10.9364229-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c57db7fa-34e7-4384-8bf0-c5e9fcec864b">
+    </UnitTestResult>
+    <UnitTestResult executionId="f7c45a80-2525-4b85-a9ce-b6c69340d3a8" testId="3a05ed06-7376-5c11-5ccc-a05ccb136309" testName="btnCalculateQuote_ClickTestZero" computerName="BITF2015WIT1" duration="00:00:00.0045763" startTime="2015-10-13T16:20:10.9394248-05:00" endTime="2015-10-13T16:20:10.9474436-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f7c45a80-2525-4b85-a9ce-b6c69340d3a8">
+    </UnitTestResult>
+    <UnitTestResult executionId="93b0a26f-3b43-4032-ae0f-04cf46f48a1e" testId="439c8634-c500-610f-3762-0d30671b4f03" testName="hsbInterestRate_ValueChangedTest" computerName="BITF2015WIT1" duration="00:00:00.0051802" startTime="2015-10-13T16:20:10.9544381-05:00" endTime="2015-10-13T16:20:10.9624528-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="93b0a26f-3b43-4032-ae0f-04cf46f48a1e">
+    </UnitTestResult>
+    <UnitTestResult executionId="14098dd5-9ab5-4fb3-a7ff-9bc126e5a104" testId="491d3358-edfa-16cd-bd15-38d627dafa60" testName="textBox_GotFocusTest" computerName="BITF2015WIT1" duration="00:00:00.0048978" startTime="2015-10-13T16:20:10.9674590-05:00" endTime="2015-10-13T16:20:10.9744498-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14098dd5-9ab5-4fb3-a7ff-9bc126e5a104">
+    </UnitTestResult>
+    <UnitTestResult executionId="34c619ac-1c97-4908-adc3-9a5c16369a80" testId="4aa3e695-8107-ff9e-f2d9-31025ffc2fc0" testName="checkboxRadioButton_CheckedChangedTestCheckbox" computerName="BITF2015WIT1" duration="00:00:00.0045394" startTime="2015-10-13T16:20:10.9784670-05:00" endTime="2015-10-13T16:20:10.9864583-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34c619ac-1c97-4908-adc3-9a5c16369a80">
+    </UnitTestResult>
+    <UnitTestResult executionId="9935663e-0fc9-4caa-9fa4-09701b60e1d4" testId="52f224c7-8821-c32f-3efe-af413fbc9f07" testName="btnCalculateQuote_ClickTestZeroThenPositive" computerName="BITF2015WIT1" duration="00:00:00.0044515" startTime="2015-10-13T16:20:10.9914752-05:00" endTime="2015-10-13T16:20:10.9984783-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9935663e-0fc9-4caa-9fa4-09701b60e1d4">
+    </UnitTestResult>
+    <UnitTestResult executionId="ce28eaac-58dc-4fc6-915d-ab28750e70e9" testId="694f5fe8-c027-e9f5-ad3a-393425c1b9fd" testName="txtTradeInAllowance_ValidatingTestLessThanZero" computerName="BITF2015WIT1" duration="00:00:00.0043513" startTime="2015-10-13T16:20:11.0034701-05:00" endTime="2015-10-13T16:20:11.0104905-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ce28eaac-58dc-4fc6-915d-ab28750e70e9">
+    </UnitTestResult>
+    <UnitTestResult executionId="c1ace781-8fe7-4597-a5a0-febe49f134fd" testId="783d93ac-8eaf-bcde-3a47-87742ef1cf3f" testName="txtVehicleSalePrice_ValidatingTestValidInput" computerName="BITF2015WIT1" duration="00:00:00.0080282" startTime="2015-10-13T16:20:11.0134895-05:00" endTime="2015-10-13T16:20:11.0264981-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1ace781-8fe7-4597-a5a0-febe49f134fd">
+    </UnitTestResult>
+    <UnitTestResult executionId="e7bbca3d-c521-4604-ae74-87bb7493896b" testId="7f2f2dd6-ddd1-f4ac-cac5-dd7ff0c6e74e" testName="txtTradeInAllowance_ValidatingTestNotNumeric" computerName="BITF2015WIT1" duration="00:00:00.0048748" startTime="2015-10-13T16:20:11.0404978-05:00" endTime="2015-10-13T16:20:11.0505044-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e7bbca3d-c521-4604-ae74-87bb7493896b">
+    </UnitTestResult>
+    <UnitTestResult executionId="1a90f527-a6ab-476b-883d-fb179a13d76c" testId="801dc852-42f0-e074-a986-8e54b221d08e" testName="UpdateSummaryFinanceTest_AmountDueZero" computerName="BITF2015WIT1" duration="00:00:00.0069255" startTime="2015-10-13T16:20:11.0555065-05:00" endTime="2015-10-13T16:20:11.0655169-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1a90f527-a6ab-476b-883d-fb179a13d76c">
+    </UnitTestResult>
+    <UnitTestResult executionId="39ef7517-5c43-4119-9c3b-deb362b50ad8" testId="8a92961d-4bc1-9dbc-c391-107877a578d9" testName="textbox_TextChangedTest" computerName="BITF2015WIT1" duration="00:00:00.0056659" startTime="2015-10-13T16:20:11.0705309-05:00" endTime="2015-10-13T16:20:11.0785370-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="39ef7517-5c43-4119-9c3b-deb362b50ad8">
+    </UnitTestResult>
+    <UnitTestResult executionId="e9e29457-2e6a-47fb-b765-35ecefa353f5" testId="8c3106f1-223b-ac25-c5a7-f7e3c2b9a7eb" testName="hsbNoOfYear_ValueChangedTest" computerName="BITF2015WIT1" duration="00:00:00.0048719" startTime="2015-10-13T16:20:11.0815381-05:00" endTime="2015-10-13T16:20:11.0905319-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e9e29457-2e6a-47fb-b765-35ecefa353f5">
+    </UnitTestResult>
+    <UnitTestResult executionId="01fd5d3c-4213-422a-9cc3-aba1daac53c8" testId="95510f82-1af8-7094-2681-f2e90f79a8c3" testName="btnCalculateQuote_ClickTestNegative" computerName="BITF2015WIT1" duration="00:00:00.0043780" startTime="2015-10-13T16:20:11.0955361-05:00" endTime="2015-10-13T16:20:11.1025532-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="01fd5d3c-4213-422a-9cc3-aba1daac53c8">
+    </UnitTestResult>
+    <UnitTestResult executionId="36b22ef4-8a8e-43d4-9878-a05d16ac598c" testId="ab3f4f99-11c9-ce5e-2e19-2aaff19304f3" testName="lnkResetForm_ClickTest" computerName="BITF2015WIT1" duration="00:00:00.0063413" startTime="2015-10-13T16:20:11.1075434-05:00" endTime="2015-10-13T16:20:11.1155498-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="36b22ef4-8a8e-43d4-9878-a05d16ac598c">
+    </UnitTestResult>
+    <UnitTestResult executionId="8ad1489a-c5ee-4a16-ab30-92645a692709" testId="ab97ef20-c6a7-4143-e602-ecaf29892f8c" testName="txtVehicleSalePrice_ValidatingTestNotNumeric" computerName="BITF2015WIT1" duration="00:00:00.0040775" startTime="2015-10-13T16:20:11.1195547-05:00" endTime="2015-10-13T16:20:11.1275579-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ad1489a-c5ee-4a16-ab30-92645a692709">
+    </UnitTestResult>
+    <UnitTestResult executionId="850476a0-237b-4f27-9109-17cd9282bb50" testId="c603df60-76e3-2c7c-8d0a-afc5669e31fb" testName="clearFinanceTest" computerName="BITF2015WIT1" duration="00:00:00.0042996" startTime="2015-10-13T16:20:11.1315608-05:00" endTime="2015-10-13T16:20:11.1395664-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="850476a0-237b-4f27-9109-17cd9282bb50">
+    </UnitTestResult>
+    <UnitTestResult executionId="45c3bbf1-f934-4539-b19d-37068a5d8852" testId="d46c6573-0a31-aa34-8c09-4334e4b9f7bf" testName="btnCalculateQuote_ClickTestPositiveAndScrollThenPositive" computerName="BITF2015WIT1" duration="00:00:00.0063918" startTime="2015-10-13T16:20:11.1435783-05:00" endTime="2015-10-13T16:20:11.1525882-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="45c3bbf1-f934-4539-b19d-37068a5d8852">
+    </UnitTestResult>
+    <UnitTestResult executionId="35325be9-7fe7-46d1-b60f-1c3c949ac776" testId="e1c73f72-a2cb-d982-e85a-1d509fe26ede" testName="clearSummaryTest" computerName="BITF2015WIT1" duration="00:00:00.0044876" startTime="2015-10-13T16:20:11.1555773-05:00" endTime="2015-10-13T16:20:11.1645100-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35325be9-7fe7-46d1-b60f-1c3c949ac776">
+    </UnitTestResult>
+    <UnitTestResult executionId="3e32b9d8-a9aa-4f8f-8d2a-39a65fd2e45e" testId="e6c06874-7826-f5e2-bc1d-c8a399b92712" testName="btnCalculateQuote_ClickTestPositive" computerName="BITF2015WIT1" duration="00:00:00.0057911" startTime="2015-10-13T16:20:11.1695877-05:00" endTime="2015-10-13T16:20:11.1786066-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e32b9d8-a9aa-4f8f-8d2a-39a65fd2e45e">
+    </UnitTestResult>
+    <UnitTestResult executionId="c2a3ac3b-fae2-4f3a-80b4-ad9404946c6d" testId="ec1e6568-1205-ced6-3d3f-05e975b14738" testName="txtVehicleSalePrice_ValidatedTest" computerName="BITF2015WIT1" duration="00:00:00.0048538" startTime="2015-10-13T16:20:11.1835972-05:00" endTime="2015-10-13T16:20:11.1916033-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c2a3ac3b-fae2-4f3a-80b4-ad9404946c6d">
+    </UnitTestResult>
+    <UnitTestResult executionId="f7e53aef-aa93-41b7-a9d7-2398fbd3e5c8" testId="ee63a24e-124d-289d-8398-46b4c86a3d66" testName="UpdateSummaryFinanceTest_AmountDueNegative" computerName="BITF2015WIT1" duration="00:00:00.0040960" startTime="2015-10-13T16:20:11.1946080-05:00" endTime="2015-10-13T16:20:11.2026232-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f7e53aef-aa93-41b7-a9d7-2398fbd3e5c8">
+    </UnitTestResult>
+    <UnitTestResult executionId="2a213b99-e1c9-42d4-837d-398afe812cc1" testId="f2a08186-e21e-2d6d-797e-8e669ae88daa" testName="clearFormTest" computerName="BITF2015WIT1" duration="00:00:00.0046847" startTime="2015-10-13T16:20:11.2076179-05:00" endTime="2015-10-13T16:20:11.2156322-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2a213b99-e1c9-42d4-837d-398afe812cc1">
+    </UnitTestResult>
+    <UnitTestResult executionId="a5861c82-749d-4c2f-aff9-77e671d422f6" testId="f3f6a8e6-adc4-d458-a03e-820137e927f4" testName="txtVehicleSalePrice_ValidatingTestNoGreaterThanZero" computerName="BITF2015WIT1" duration="00:00:00.0045369" startTime="2015-10-13T16:20:11.2196231-05:00" endTime="2015-10-13T16:20:11.2266278-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a5861c82-749d-4c2f-aff9-77e671d422f6">
+    </UnitTestResult>
+    <UnitTestResult executionId="a42213a4-9644-4e72-ba2d-bf4ce6ffc5e9" testId="f7124b4d-0ee2-732e-ac0e-97fb6ff75382" testName="frmQuoteConstructorTest" computerName="BITF2015WIT1" duration="00:00:00.0038800" startTime="2015-10-13T16:20:11.2306311-05:00" endTime="2015-10-13T16:20:11.2376354-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a42213a4-9644-4e72-ba2d-bf4ce6ffc5e9">
+    </UnitTestResult>
+    <UnitTestResult executionId="4565e7c3-aa49-461b-aa6f-9659c383afb3" testId="f8203ce4-1d76-c8eb-d999-8577d9729c1b" testName="UpdateSummaryFinanceTest_AmountDuePositive" computerName="BITF2015WIT1" duration="00:00:00.0044404" startTime="2015-10-13T16:20:11.2426527-05:00" endTime="2015-10-13T16:20:11.2506559-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4565e7c3-aa49-461b-aa6f-9659c383afb3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

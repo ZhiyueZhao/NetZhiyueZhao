@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5801aad3-b46f-4d57-a17a-685b5159198d" name="Administrator@BITF2015WIT1 2015-10-13 15:06:44" runUser="BITF2015WIT1\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ff0b7b64-8b2e-439a-bd61-71756697bef5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_BITF2015WIT1 2015-10-13 15_06_44">
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\bin\Debug\BusinessTier.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-13T15:06:44.5403942-05:00" queuing="2015-10-13T15:06:44.8883512-05:00" start="2015-10-13T15:06:45.0095205-05:00" finish="2015-10-13T15:06:45.9466431-05:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BITF2015WIT1" outcome="Warning" timestamp="2015-10-13T15:06:44.6677360-05:00">
+        <Text>Deployment is currently disabled. The deployment item 'NETZhiyueZhao.exe' on test 'TestZhiyueZhao.frmQuoteTest.btnCalculateQuote_ClickTestPositive' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="btnCalculateQuote_ClickTestPositive" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="e6c06874-7826-f5e2-bc1d-c8a399b92712">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="6ec0ebf5-71a7-4a5a-a81c-60e815a62011" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="btnCalculateQuote_ClickTestPositive" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e6c06874-7826-f5e2-bc1d-c8a399b92712" executionId="6ec0ebf5-71a7-4a5a-a81c-60e815a62011" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6ec0ebf5-71a7-4a5a-a81c-60e815a62011" testId="e6c06874-7826-f5e2-bc1d-c8a399b92712" testName="btnCalculateQuote_ClickTestPositive" computerName="BITF2015WIT1" duration="00:00:00.0905334" startTime="2015-10-13T15:06:45.0553256-05:00" endTime="2015-10-13T15:06:45.2882642-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ec0ebf5-71a7-4a5a-a81c-60e815a62011">
+    </UnitTestResult>
+  </Results>
+</TestRun>

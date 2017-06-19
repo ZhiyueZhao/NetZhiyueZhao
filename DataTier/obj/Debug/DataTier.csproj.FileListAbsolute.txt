@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\bin\Debug\DataTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\obj\Debug\DataTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\obj\Debug\DataTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache

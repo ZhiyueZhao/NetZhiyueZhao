@@ -1,0 +1,110 @@
+Date: 12-01-2015
+Time: 10:29 AM
+Message: Error reading from car wash data file.
+Stack trace:    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DataTier.Data..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\Data.cs:line 42
+   at DataTier.VehicleStockData..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\VehicleStockData.cs:line 17
+   at NETZhiyueZhao.frmVehicleStock.frmVehicleStock_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleStock.cs:line 56
+-----------------------------------------
+Date: 12-01-2015
+Time: 10:32 AM
+Message: Error reading from car wash data file.
+Stack trace:    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DataTier.Data..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\Data.cs:line 42
+   at DataTier.VehicleStockData..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\VehicleStockData.cs:line 17
+   at NETZhiyueZhao.frmVehicleStock.frmVehicleStock_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleStock.cs:line 56
+-----------------------------------------
+Date: 12-01-2015
+Time: 10:34 AM
+Message: Error reading from car wash data file.
+Stack trace:    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DataTier.Data..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\Data.cs:line 42
+   at DataTier.VehicleStockData..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\VehicleStockData.cs:line 17
+   at NETZhiyueZhao.frmVehicleStock.frmVehicleStock_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleStock.cs:line 57
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:25 AM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmVehicleSale.updateUI() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 160
+   at NETZhiyueZhao.frmVehicleSale.frmSalesStaffSection_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 98
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:27 AM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmQuote.UpdateSummaryFinance() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 457
+   at NETZhiyueZhao.frmQuote.frmQuote_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 104
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:44 AM
+Message: Error reading from car wash data file.
+Stack trace:    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DataTier.Data..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\Data.cs:line 42
+   at DataTier.VehicleStockData..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\VehicleStockData.cs:line 17
+   at NETZhiyueZhao.frmQuote.frmQuote_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 90
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:45 AM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmQuote.UpdateSummaryFinance() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 470
+   at NETZhiyueZhao.frmQuote.frmQuote_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 105
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:51 AM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmQuote.UpdateSummaryFinance() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 470
+   at NETZhiyueZhao.frmQuote.frmQuote_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 105
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:52 AM
+Message: Error reading from car wash data file.
+Stack trace:    at System.Data.OleDb.OleDbConnectionInternal..ctor(OleDbConnectionString constr, OleDbConnection connection)
+   at System.Data.OleDb.OleDbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningObject)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionInternal.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   at System.Data.OleDb.OleDbConnection.Open()
+   at DataTier.Data..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\Data.cs:line 42
+   at DataTier.SalesStaffData..ctor(String connectionString, String tableName, String selectQuery) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\DataTier\SalesStaffData.cs:line 19
+   at NETZhiyueZhao.frmVehicleSale.frmSalesStaffSection_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 89
+-----------------------------------------
+Date: 12-01-2015
+Time: 11:53 AM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmVehicleSale.updateUI() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 173
+   at NETZhiyueZhao.frmVehicleSale.frmSalesStaffSection_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 99
+-----------------------------------------

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="29844b41-dd4d-4ab1-b889-55e74672fbce" name="Administrator@BITF2015WIT1 2015-10-13 15:43:59" runUser="BITF2015WIT1\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="ff0b7b64-8b2e-439a-bd61-71756697bef5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_BITF2015WIT1 2015-10-13 15_43_59">
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\BusinessTier\bin\Debug\BusinessTier.dll" />
+      <DeploymentItem filename="C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-10-13T15:43:59.5205577-05:00" queuing="2015-10-13T15:43:59.5665115-05:00" start="2015-10-13T15:43:59.5755156-05:00" finish="2015-10-13T15:44:00.0291548-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BITF2015WIT1" outcome="Warning" timestamp="2015-10-13T15:43:59.5665115-05:00">
+        <Text>Deployment is currently disabled. The deployment item 'NETZhiyueZhao.exe' on test 'TestZhiyueZhao.frmQuoteTest.textbox_TextChangedTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="textbox_TextChangedTest" storage="c:\users\administrator\documents\visual studio 2010\projects\netzhiyuezhao\testzhiyuezhao\bin\debug\testzhiyuezhao.dll" id="8a92961d-4bc1-9dbc-c391-107877a578d9">
+      <DeploymentItems>
+        <DeploymentItem filename="NETZhiyueZhao.exe" />
+      </DeploymentItems>
+      <Execution id="4868e19c-86e3-436c-ba12-4a6638ba5aba" />
+      <TestMethod codeBase="C:/Users/Administrator/documents/visual studio 2010/Projects/NETZhiyueZhao/TestZhiyueZhao/bin/Debug/TestZhiyueZhao.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestZhiyueZhao.frmQuoteTest, TestZhiyueZhao, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="textbox_TextChangedTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8a92961d-4bc1-9dbc-c391-107877a578d9" executionId="4868e19c-86e3-436c-ba12-4a6638ba5aba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="4868e19c-86e3-436c-ba12-4a6638ba5aba" testId="8a92961d-4bc1-9dbc-c391-107877a578d9" testName="textbox_TextChangedTest" computerName="BITF2015WIT1" duration="00:00:00.0781246" startTime="2015-10-13T15:43:59.5815199-05:00" endTime="2015-10-13T15:43:59.7649678-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4868e19c-86e3-436c-ba12-4a6638ba5aba">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;12341&gt;. Actual:&lt;12333&gt;. </Message>
+          <StackTrace>   at TestZhiyueZhao.frmQuoteTest.textbox_TextChangedTest() in C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\TestZhiyueZhao\frmQuoteTest.cs:line 1120
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

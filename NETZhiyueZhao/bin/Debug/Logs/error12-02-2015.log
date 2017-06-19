@@ -1,0 +1,6 @@
+Date: 12-02-2015
+Time: 7:26 PM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmVehicleSale.updateUI() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 185
+   at NETZhiyueZhao.frmVehicleSale.frmSalesStaffSection_Load() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmVehicleSale.cs:line 111
+-----------------------------------------

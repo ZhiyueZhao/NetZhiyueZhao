@@ -1,0 +1,48 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\BusinessTier.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\BusinessTier.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmQuote.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmAbout.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmMDIFrame.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmService.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmServiceInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmCarWash.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmCarWashInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\DataTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmQuoteAssignment3.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmVehicleSale.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmEditVehicleStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmVehicleStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\NETZhiyueZhao.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\BusinessTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\DataTier.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\BusinessTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\bin\Debug\DataTier.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmAbout.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmCarWash.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmCarWashInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmEditVehicleStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmMDIFrame.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmQuote.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmQuoteAssignment3.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmServiceInvoice.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmVehicleSale.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmVehicleStock.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.frmService.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao - Copy\NETZhiyueZhao\obj\x86\Debug\NETZhiyueZhao.csproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+Date: 12-08-2015
+Time: 6:16 PM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmQuote.UpdateSummaryFinance() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 531
+   at NETZhiyueZhao.frmQuote.frmQuote_Load(Int32 selectedIndex) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 126
+-----------------------------------------
+Date: 12-08-2015
+Time: 6:17 PM
+Message: Error reading from car wash data file.
+Stack trace:    at NETZhiyueZhao.frmQuote.UpdateSummaryFinance() in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 531
+   at NETZhiyueZhao.frmQuote.frmQuote_Load(Int32 selectedIndex) in C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NETZhiyueZhao\NETZhiyueZhao\frmQuote.cs:line 126
+-----------------------------------------
